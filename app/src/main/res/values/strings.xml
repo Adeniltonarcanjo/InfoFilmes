@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">InfoFilmes</string>
+    <string name="titulo">Anne with an E</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="imagem_serie">Imagem da serie</string>
+    <string name="sinopse">Sinopse</string>
+    <string name="cabecalho_serie"> Ano : 2017
+\nDireção: Moira Walley-Beckett
+\nElenco: Amybeth McNulty, Geraldine James, Lucas Jade Zumann
+\nNacionalidade: Canadá </string>
+    <string name="conteudo_serie">Depois de treze anos sofrendo no sistema de assistência social, a orfã Anne é mandada para morar com uma solteirona e seu irmão. Munida de sua imaginação e de seu intelecto, a pequena Anne vai transformar a vida de sua família adotiva e da cidade que lhe abrigou, lutando pela sua aceitação e pelo seu lugar no mundo</string>
+
 </resources>

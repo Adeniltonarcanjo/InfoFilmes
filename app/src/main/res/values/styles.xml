@@ -7,4 +7,34 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="style_title">
+        <item name="android:layout_marginStart">@dimen/layout_margin</item>
+        <item name="android:layout_marginTop">@dimen/layout_margin</item>
+        <item name="android:layout_marginEnd">@dimen/layout_margin</item>
+        <item name="android:layout_marginBottom">@dimen/layout_margin</item>
+        <item name="android:paddingTop">@dimen/pedding_layout</item>
+        <item name="android:paddingBottom">@dimen/pedding_layout</item>
+        <item name="android:textColor">#FFA407</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="style_subtitle">
+        <item name="android:layout_marginStart">@dimen/layout_margin</item>
+        <item name="android:layout_marginTop">@dimen/layout_margin</item>
+        <item name="android:layout_marginEnd">@dimen/layout_margin</item>
+        <item name="android:fontFamily">@font/roboto_thin</item>
+        <item name="android:textColor">@android:color/holo_blue_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="style_texto">
+        <item name="android:layout_marginStart">@dimen/layout_margin</item>
+        <item name="android:layout_marginTop">@dimen/layout_margin</item>
+        <item name="android:layout_marginEnd">@dimen/layout_margin</item>
+        <item name="android:fontFamily">@font/roboto_thin</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
 </resources>
